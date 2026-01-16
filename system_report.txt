@@ -1,0 +1,14 @@
+SYSTEM MONITORING REPORT
+2026-01-16 12:36:08.984701
+
+CPU INFORMATION:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+MEMORY INFORMATION:
+               total        used        free      shared  buff/cache   available
+Mem:            3763         378        3303           3         173        3384
+Swap:           1024           0        1024
+
+LOG SUMMARY:
+Error COunt: 15
+Warning COunt:15
